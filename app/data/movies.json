@@ -1,0 +1,60 @@
+[
+  {
+    "_id": "1",
+    "title": "Galactic Warriors",
+    "poster": "/posters/galactic-warriors-2025.jpg",
+    "releaseDate": "2025-05-12",
+    "duration": "2h 10m",
+    "languages": ["English", "Hindi Dubbed"],
+    "quality": ["1080p", "720p", "WebRip"],
+    "summary": "A band of rebels fights to restore peace in a war-torn galaxy. Fans of sci-fi epics and action-packed sequences will love this film.",
+    "genres": ["Action", "Sci-Fi"],
+    "tags": ["Space", "Adventure", "Hindi Dubbed", "Blockbuster"],
+    "cast": ["John Doe", "Priya Singh", "Chen Liu"],
+    "isDubbed": true,
+    "downloadLinks": [
+      {
+        "label": "720p",
+        "url": "https://filehost.com/galactic-720p.mp4",
+        "redirectCount": 3
+      },
+      {
+        "label": "1080p",
+        "url": "https://filehost.com/galactic-1080p.mp4",
+        "redirectCount": 3
+      }
+    ],
+    "views": 12044,
+    "demand": 10,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "_id": "2",
+    "title": "Galactic Warriors",
+    "poster": "/posters/galactic-warriors-2025.jpg",
+    "releaseDate": "2025-05-12",
+    "duration": "2h 10m",
+    "languages": ["English", "Hindi Dubbed"],
+    "quality": ["1080p", "720p", "WebRip"],
+    "summary": "A band of rebels fights to restore peace in a war-torn galaxy. Fans of sci-fi epics and action-packed sequences will love this film.",
+    "genres": ["Action", "Sci-Fi"],
+    "tags": ["Space", "Adventure", "Hindi Dubbed", "Blockbuster"],
+    "cast": ["John Doe", "Priya Singh", "Chen Liu"],
+    "isDubbed": true,
+    "downloadLinks": [
+      {
+        "label": "720p",
+        "url": "https://filehost.com/galactic-720p.mp4",
+        "redirectCount": 3
+      },
+      {
+        "label": "1080p",
+        "url": "https://filehost.com/galactic-1080p.mp4",
+        "redirectCount": 3
+      }
+    ],
+    "views": 12044,
+    "demand": 10,
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]
