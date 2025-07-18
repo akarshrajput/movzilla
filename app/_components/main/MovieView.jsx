@@ -145,7 +145,7 @@ export default function MovieView({ movie }) {
               <button
                 key={dl.label}
                 onClick={handleDownload(dl.label)}
-                className="block w-full bg-pink-700 hover:bg-pink-600 text-center font-semibold py-2 rounded text-white transition"
+                className="block w-full cursor-pointer bg-pink-700 hover:bg-pink-600 text-center font-semibold py-2 rounded text-white transition"
               >
                 Download {dl.label}
               </button>
